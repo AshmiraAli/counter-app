@@ -24,8 +24,7 @@ https://ashmiraali.github.io/counter-app/
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ---
 
-## 📂 Project Structure
